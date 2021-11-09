@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('mid kakas asfira muhri kelas b nim 60900119024, semangat bestieeeeee');
 });
